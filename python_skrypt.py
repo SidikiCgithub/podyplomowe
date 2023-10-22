@@ -1,0 +1,1 @@
+Print("cześć nazywam się Tomek")
